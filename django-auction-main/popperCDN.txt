@@ -1,3 +1,7 @@
 popper js CDN 
 
 https://unpkg.com/@popperjs/core@2
+
+
+superuser - admin - id
+admin - pass

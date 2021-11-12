@@ -6,7 +6,7 @@ from .models import User, Listing, Bid
 
 
 class MyUserAdmin(admin.ModelAdmin):
-    list_display = ('username', 'first_name', 'last_name', 'email', 'age')
+    list_display = ('username', 'first_name', 'last_name', 'email', 'age', 'is_superuser')
 
 
 class ListingAdmin(admin.ModelAdmin):
